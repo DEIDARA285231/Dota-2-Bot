@@ -7,7 +7,7 @@ import requests
 print(sys.prefix)
 
 #BOT_TOKEN = os.getenv('BOT_TOKEN')
-BOT_TOKEN = "6312353029:AAFzx4QatmgAcKlCUiiNSOvkU8Qtc000lUY"
+BOT_TOKEN = "Pidetto"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
