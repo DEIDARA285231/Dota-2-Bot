@@ -1,5 +1,7 @@
 # Telegram Bot for Dota 2 Hero Stats and Matchups
 
+![Bot Screenshot](assets/dota-2-heroes.avif "Telegram Bot in Action")
+
 This repository contains a Python-based Telegram bot that provides Dota 2 hero statistics and matchup information. The bot interacts with users through the following commands:
 
 1. **`/hero-stats`**: Returns basic stats for a specified Dota 2 hero.
@@ -189,3 +191,8 @@ If you have any questions or run into any issues, feel free to open an issue on 
 ## Suggestions?
 
 If you have suggestions on functionalities that you would like to see implemented please reach out to me on Telegram (DEIDARA285231)!
+
+## Next steps
+
+- It currently needs my local backend to run, I'll be putting the bot in a cloud hosting.
+- Add more functionalities regarding matches and best players.
