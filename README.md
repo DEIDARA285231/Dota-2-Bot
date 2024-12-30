@@ -55,6 +55,8 @@ Day vision range: 1800
 Night vision range: 800
 ```
 
+![Bot Screenshot](assets/photo_2024-12-30_17-27-17.jpg "Telegram Bot in Action")
+
 ### `/matchups`
 
 This command returns the hero's matchups, including win rates against other heroes. After the command the user will need to provide the Hero's name.
@@ -109,6 +111,8 @@ Wins: 60
 ```
 
 ---
+
+![Bot Screenshot](assets/photo_2024-12-30_17-28-32.jpg "Telegram Bot in Action")
 
 ## Installation
 
